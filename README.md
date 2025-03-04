@@ -14,6 +14,9 @@ This project analyzes battery lifecycle and maintenance data to provide insights
 * **BigQuery:** All further analysis is done by loading data from a BigQuery table.
   * EDA: `Analysis_eda.ipynb`
   * Predictive modelling: `Predictive_modeling.ipynb`   
+  
+## Permissions
+  * I may need to grant access to the GCP project. Could you please provide the relevant email addresses?
 
 ## Approach
 
